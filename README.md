@@ -1,8 +1,6 @@
 # Profile-card-component
 Frontend Mentor - Profile card component solution
 
-
-# 3-column-preview-card-component
 Frontend Mentor - [Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ) solution
 
 ### Links
